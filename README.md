@@ -1,2 +1,31 @@
+# SmartCart
 
-# SmartCart-Wesite
+SmartCart is a simple eCommerce website built using HTML, CSS, JavaScript, and Bootstrap.
+
+## Features
+- Home Page
+- Product Listing
+- Product Categories
+- Cart Page
+- Buy / Checkout Page
+- User Login
+- User Profile
+- Orders Page
+- Responsive Design
+
+## Project Files
+- index.html
+- product.html
+- cart.html
+- buy.html
+- login.html
+- profile.html
+- orders.html
+- style.css
+- script.js
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 5
